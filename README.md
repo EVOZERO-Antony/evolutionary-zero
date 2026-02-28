@@ -38,4 +38,4 @@ Falsify it. Find a weak spot. Propose an experiment. See [CONTRIBUTING.md](CONTR
 ---
 
 *Author: Antony Sovetcenkovs · Independent researcher*
-*February 2026*
+*28 February 2026*
