@@ -10,12 +10,12 @@ EVO ZERO is a cognitive model for working with AI without losing autonomy. Syste
 
 ## What's Inside
 
-- **The Collapse of Linearity** — why the old thinking model stopped working
-- **The Bottleneck Shift** — from execution to intent specification
-- **Cognitive Stack** — System 0/1/2/3 extending Kahneman's framework
-- **Nine Principles** — from Möbius Learning to Environment Design
-- **The Closed Loop** — a cycle where every rotation compounds
-- **Falsifiability** — built so you can break it
+- **The Collapse of Linearity** - why the old thinking model stopped working
+- **The Bottleneck Shift** - from execution to intent specification
+- **Cognitive Stack** - System 0/1/2/3 extending Kahneman's framework
+- **Nine Principles** - from Möbius Learning to Environment Design
+- **The Closed Loop** - a cycle where every rotation compounds
+- **Falsifiability** - built so you can break it
 
 ## Files
 
