@@ -1,6 +1,6 @@
 # Changelog
 
-## v3.3.2 — 1 March 2026
+## v3.3 — 1 March 2026
 
 Major rewrite. New architecture, new concepts, sharper falsifiability.
 
