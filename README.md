@@ -64,15 +64,6 @@ Extends Kahneman's dual-process theory (2011) with System 0 (human meta-reasonin
 
 Built on: Kahneman (2011), Gadamer (1960), Shannon (1948), Miller (1956), Cowan (2001), Oakley (2014), Genewein (2015), Chiriatti et al. (2025).
 
----
-
-## Roadmap
-
-- [x] Manifesto v3.3 — public release
-- [ ] Zenodo DOI — academic timestamp
-- [ ] Companion paper — formal academic submission
-- [ ] ORBITAL — productivity app built on EVO ZERO principles
-- [ ] Community pilots — "First Crew" early adopter program
 
 ---
 
