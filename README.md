@@ -1,109 +1,91 @@
-# EVOLUTIONARY ZERO MANIFESTO
+<img width="1536" height="1024" alt="000" src="https://github.com/user-attachments/assets/f1d3604f-cb7a-4521-a3a8-87abd86e0092" />
 
-### The Cognitive OS Above the Singularity
 
-*A Cognitive Manifesto — The Operating System Above the Singularity.*
-*Extending Kahneman's dual-process theory into a four-system architecture for human–AI collaboration.*
+# EVO ZERO
 
----
-
-## The Short Version
-
-Everyone's talking about augmenting domain expertise with AI. We're saying something different: the loop itself *is* the entry point. You don't study a domain then build — you enter it by building on day one. Grab anchor points, fill gaps on the fly, go deep only where it matters. What took years now takes days. Knowledge is a byproduct of action, not a prerequisite.
-
-This isn't theory. Neurodivergent minds have been forced to live this way forever — navigating by anchors, patterns, and whole-field awareness because the linear path never fit them. We borrowed their survival architecture and turned it into a repeatable protocol. The promise isn't that everyone moves equally fast. The promise is that nobody has to wait ten thousand hours before they're allowed to start.
-
-The linear floor just got flooded. Code, prototypes, analysis — near-zero cost, faster than any team. The singularity didn't arrive from above. It happened below — swallowing everything organized around expensive execution.
-
-What nobody's mapping is what comes next: entropy. More outputs per second than any human can evaluate. Every wrong call amplified at machine speed. Without architecture, you don't rise through abstraction — you dissolve in optionality.
-
-This is a manifesto for vertical movement. How to stay sovereign above the flood. We know how the stack works, and we wrote it down.
-
-**What's inside:**
-
-- **Four-System Stack** — Kahneman's two systems were right for 2011. Now there are four. System 3 = AI (infinite scale, zero understanding). System 0 = human meta-cognition — the pilot that decides when to trust gut, when to reason, when to delegate.
-- **DHS Register Architecture** — x86 uses 8 registers to govern infinite memory. Your brain holds 4±1 chunks. Five cognitive registers — Intent, Constraints, Invariants, Anchors, Risks — pilot the AI swarm. Hardware logic applied to cognition.
-- **Diffuse Hermeneutic Spiral** — boot registers → swarm generates → red team breaks → audit the loop → synthesize → tighten. Every cycle compounds. Without consolidation (ZLC), every spiral is just a circle.
-- **Backward Singularity** — infinite execution forces radical simplicity at control. The register file is not dumber than RAM. It is sovereign over it.
-- **Exoskeleton Test** — turn off the AI. Can you still think? Yes = exoskeleton. No = prosthetic.
-- **Nine Principles** — closed operational loop from epistemic hygiene to environment design. Each principle advances all others.
-
-**The neurodivergent connection:** pattern-first, anchor-based, diffuse navigation — the minds labelled "broken" were pre-adapted. They ran this operating system before the tools existed. Most founders, builders, and visionaries are wired this way. This manifesto makes their survival strategies legible — a protocol anyone can run.
+**The Cognitive OS Above the Singularity**
 
 ---
 
-## Who This Is For
+AI made execution free. The bottleneck flipped — from *how to build* to *what should exist and why*.
 
-Written for people already inside the blast radius — founders, engineers, neurodivergent builders whose industries are melting in real time. But the bottleneck won't stay confined to them. In a decade, human + AI will be the default configuration for everyone. The first pilots don't get to keep the map. Their job is to make it legible.
+Kahneman gave us two systems of thinking. AI added a third. **No one asked who governs all three.**
 
-This is also a falsifiable framework with testable predictions and explicit kill conditions. See the Falsifiability section.
-
----
-
-## The Manifesto
-
-**→ [Read the full manifesto](EVOLUTIONARY_ZERO_v3.3.md)**
-
-### Table of Contents
-
-1. **The Collapse of Linearity** — why the 200-year-old algorithm is dead
-2. **The Bottleneck Shift** — from execution to intent specification
-3. **The Four-System Stack** — extending Kahneman for the AI era
-4. **DHS: The Register Thesis** — 5 cognitive registers to pilot the swarm
-5. **The Resistance of the Mind** — why your brain wants to hand over the keys
-6. **Nine Principles** — the operational loop
-7. **The Closed Loop** — how the flywheel connects
-8. **Backward Compatibility** — absorbing legacy paradigms
-9. **Falsifiability** — how to kill this model
+EVO ZERO answers that question.
 
 ---
 
-## Academic Context
+## The Architecture
 
-Extends Kahneman's dual-process theory (2011) with System 0 (human meta-reasoning) and System 3 (AI). Inverts Chiriatti et al. (2025) who position "System 0" as an AI preprocessor — here it is exclusively human, governing AI from above. Same term, opposite architecture. The DHS register model applies Miller (1956) and Cowan (2001) working memory limits to human-AI cognitive orchestration. Möbius Learning formalizes the collapse of the learn/create boundary.
+**System 0** — Human meta-cognition. The pilot.
+**System 1** — Fast pattern recognition. The gut.
+**System 2** — Slow analytical reasoning. The brake.
+**System 3** — AI. Infinite generation. Zero understanding.
 
-Built on: Kahneman (2011), Gadamer (1960), Shannon (1948), Miller (1956), Cowan (2001), Oakley (2014), Genewein (2015), Chiriatti et al. (2025).
-
-
----
-
-## Citation
-
-If you reference this work:
-
-```
-Sovetcenkovs, A. (2026). Evolutionary Zero: A Four-System Cognitive
-Framework for Human–AI Collaboration. v3.3. 
-https://github.com/[username]/evolutionary-zero
-```
+System 0 decides when to trust the gut, when to reason, when to delegate to the machine, and when to override all three. This is the skill of the century. Everything else is downstream.
 
 ---
 
-## Contributing
+## Core Mechanisms
 
-This is a living framework. It is designed to be **falsifiable** — see the manifesto's Falsifiability section for the kill conditions.
+**DHS — Diffuse Hermeneutic Spiral.** Five cognitive registers (Intent, Constraints, Invariants, Anchors, Risks) govern infinite AI output. Same principle as x86: 8 fixed registers sovereign over unlimited memory. The brain works the same way — Miller 7±2, Cowan 4. Not habit. Architecture.
 
-- Open issues for conceptual challenges
-- Submit PRs for corrections or translations
-- Start discussions for framework extensions
+**ZLC — Zero Loop Consolidation.** The reason AI-assisted skills decay every quarter. Registers are volatile RAM. Without consolidation — verify, challenge, connect — the machine becomes your memory. You feel like you're steering. You're not. ZLC is the disk. No disk, no spiral. Only loops.
+
+**Möbius Learning.** Learning and creating are the same surface. You don't study then build — you build and the domain map forms as byproduct. AI compressed the feedback loop from years to days. The 10,000-hour toll road is gone.
+
+---
+
+## Seven Principles
+
+I. Möbius Learning — knowledge through building, not before it
+II. Asymmetric Control — human pilots, machine serves, constraints before launch
+III. Compound Compression — every loop multiplies, not adds
+IV. Epistemic Hygiene — two hallucinating engines need a referee
+V. Pilot Above the Loop — audit the process, not the output
+VI. Exoskeleton, Not Prosthetic — turn off AI; can you still think?
+VII. Environment Over Willpower — redesign the cockpit, not the pilot
+
+---
+
+## Why This Exists
+
+Neurodivergent minds have been running System 0 by necessity for decades — navigating by pattern, not by manual. The system called them broken. They were early adopters of the only cognitive mode that scales in the AI era.
+
+This manifesto makes that mode legible — so it becomes a tool anyone can wear, not an accident some were born with.
+
+---
+
+## Falsifiability
+
+Any framework that can't be broken is religion. This one publishes its kill conditions:
+
+- If teams still organize around linear expertise in 5–7 years → model is wrong
+- If Möbius learners don't show faster cross-domain transfer → compounding assumption is wrong
+- If the boundary between pattern-matching and comprehension dissolves → System 0 has no exclusive domain
+- If System 0 is innate and not trainable → this is a map for the few, not a protocol for the many
+
+We are watching. Test. Measure. Evolve.
+
+---
+
+
+## How to Cite
+
+Sovetcenkovs, A. (2026). *Evolutionary Zero Manifesto: The Cognitive OS Above the Singularity.* v3.5. GitHub / Zenodo.
+
+---
+
+## Related Work
+
+This framework extends Kahneman (2011) and inverts Chiriatti et al. (2025).  Full reference list in the manifesto.
 
 ---
 
 ## License
 
-This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE).
-
-You are free to share, adapt, and build upon this work — with attribution.
+CC BY-SA 4.0 — Use it, build on it, credit the source.
 
 ---
 
-<p align="center">
-  <em>The minds the old system spent two centuries misclassifying as defective<br/>
-  were simply the early adopters of a navigation style<br/>
-  the rest of the species now needs.</em>
-</p>
-
-<p align="center">
-  <strong>EVOLUTIONARY ZERO v3.3 — 1 March 2026</strong><br/>
-  <em>Antony Sovetcenkovs</em>
-</p>
+*Built by a neurodivergent mind that spent 20 years navigating without a manual. Now the manual exists.*
