@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="000" src="https://github.com/user-attachments/assets/f1d3604f-cb7a-4521-a3a8-87abd86e0092" />
+<img width="1536" height="1024" alt="EvoZero hero1" src="https://github.com/user-attachments/assets/76d21886-a19d-4cbc-9a32-19ca0a1da625" />
 
 
 # EVO ZERO
