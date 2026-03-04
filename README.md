@@ -1,91 +1,46 @@
 <img width="1536" height="1024" alt="EvoZero hero1" src="https://github.com/user-attachments/assets/76d21886-a19d-4cbc-9a32-19ca0a1da625" />
 
 
-# EVO ZERO
+# EVOLUTIONARY ZERO
 
-**The Cognitive OS Above the Singularity**
+### The singularity is happening right now. It isn't an explosion — it is a flood from below.
 
----
+AI didn't replace you. It replaced everything below you — and filled the space with infinite generation. Execution is free. Code is free. Output is free. The water is rising.
 
-AI made execution free. The bottleneck flipped — from *how to build* to *what should exist and why*.
+The only thing that isn't free is knowing **what should exist and why.** That's the new bottleneck. That's where you either rise above — or drown.
 
-Kahneman gave us two systems of thinking. AI added a third. **No one asked who governs all three.**
+**Everyone is talking about the problem. This manifesto is the answer.**
 
-EVO ZERO answers that question.
+EVO ZERO is a cognitive architecture that tells you exactly how to stay above the machine: what to hold, what to let go, and how to never lose the ability to think without it.
 
----
-
-## The Architecture
-
-**System 0** — Human meta-cognition. The pilot.
-**System 1** — Fast pattern recognition. The gut.
-**System 2** — Slow analytical reasoning. The brake.
-**System 3** — AI. Infinite generation. Zero understanding.
-
-System 0 decides when to trust the gut, when to reason, when to delegate to the machine, and when to override all three. This is the skill of the century. Everything else is downstream.
+**[Read the manifesto →](EVO_ZERO_v3.7.md)**
 
 ---
 
-## Core Mechanisms
+## The Singularity Brought Problems. EVOLUTIONARY ZERO Solves Them.
 
-**DHS — Diffuse Hermeneutic Spiral.** Five cognitive registers (Intent, Constraints, Invariants, Anchors, Risks) govern infinite AI output. Same principle as x86: 8 fixed registers sovereign over unlimited memory. The brain works the same way — Miller 7±2, Cowan 4. Not habit. Architecture.
+**Three engines, no pilot.** You have intuition, logic, and AI — all firing at once, often contradicting each other. The manifesto gives you a clear hierarchy: who leads, who serves, when to override all three.
 
-**ZLC — Zero Loop Consolidation.** The reason AI-assisted skills decay every quarter. Registers are volatile RAM. Without consolidation — verify, challenge, connect — the machine becomes your memory. You feel like you're steering. You're not. ZLC is the disk. No disk, no spiral. Only loops.
+**Noise everywhere, no filter.** AI floods you with options faster than you can think. The manifesto gives you a compact set of anchors to lock before you start — signal stays, noise drops out.
 
-**Möbius Learning.** Learning and creating are the same surface. You don't study then build — you build and the domain map forms as byproduct. AI compressed the feedback loop from years to days. The 10,000-hour toll road is gone.
+**Getting dumber and not noticing.** AI does the work, you take the credit, six months later you can't do it without the machine. The manifesto gives you a consolidation cycle that keeps what you learned yours.
 
----
+**No way to check if you're still flying.** Seven principles — each one a diagnostic for a specific failure mode. Compounding or just looping? Auditing the process or proofreading the output? Exoskeleton — or a prosthetic you can't take off?
 
-## Seven Principles
-
-I. Möbius Learning — knowledge through building, not before it
-II. Asymmetric Control — human pilots, machine serves, constraints before launch
-III. Compound Compression — every loop multiplies, not adds
-IV. Epistemic Hygiene — two hallucinating engines need a referee
-V. Pilot Above the Loop — audit the process, not the output
-VI. Exoskeleton, Not Prosthetic — turn off AI; can you still think?
-VII. Environment Over Willpower — redesign the cockpit, not the pilot
+**No way to know if the framework itself is wrong.** The manifesto publishes its own kill conditions. If they trigger — throw it out. Any system that hides from falsification is religion.
 
 ---
 
-## Why This Exists
-
-Neurodivergent minds have been running System 0 by necessity for decades — navigating by pattern, not by manual. The system called them broken. They were early adopters of the only cognitive mode that scales in the AI era.
-
-This manifesto makes that mode legible — so it becomes a tool anyone can wear, not an accident some were born with.
+> **You stay above the singularity. Always the pilot — never part of the engine.**
 
 ---
-
-## Falsifiability
-
-Any framework that can't be broken is religion. This one publishes its kill conditions:
-
-- If teams still organize around linear expertise in 5–7 years → model is wrong
-- If Möbius learners don't show faster cross-domain transfer → compounding assumption is wrong
-- If the boundary between pattern-matching and comprehension dissolves → System 0 has no exclusive domain
-- If System 0 is innate and not trainable → this is a map for the few, not a protocol for the many
-
-We are watching. Test. Measure. Evolve.
-
----
-
 
 ## How to Cite
 
-Sovetcenkovs, A. (2026). *Evolutionary Zero Manifesto: The Cognitive OS Above the Singularity.* v3.5. GitHub / Zenodo.
-
----
-
-## Related Work
-
-This framework extends Kahneman (2011) and inverts Chiriatti et al. (2025).  Full reference list in the manifesto.
-
----
+Sovetcenkovs, A. (2026). *Evolutionary Zero: The Cognitive Architecture Above the Loop.* v3.7. GitHub.
 
 ## License
 
 CC BY-SA 4.0 — Use it, build on it, credit the source.
-
----
 
 *Built by a neurodivergent mind that spent 20 years navigating without a manual. Now the manual exists.*
