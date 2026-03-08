@@ -3,44 +3,57 @@
 
 # EVOLUTIONARY ZERO
 
-### The singularity is happening right now. It isn't an explosion, it is a flood from below.
-
-AI didn't replace you. It replaced everything below you and filled the space with infinite generation. Execution is free. Code is free. Output is free. The water is rising.
-
-The only thing that isn't free is knowing **what should exist and why.** That's the new bottleneck. That's where you either rise above - or drown.
-
-**Everyone is talking about the problem. This manifesto is the answer.**
-
-EVO ZERO is a cognitive architecture that tells you exactly how to stay above the machine: what to hold, what to let go, and how to never lose the ability to think without it.
-
-**[Read the manifesto →](EVO_ZERO_v3.7.md)**
+### The cognitive protocol for the AI era. Governing the singularity. Human-over-the-loop.
 
 ---
 
-## The Singularity Brought Problems. EVOLUTIONARY ZERO Solves Them.
-
-**Three engines, no pilot.** You have intuition, logic, and AI - all firing at once, often contradicting each other. The manifesto gives you a clear hierarchy: who leads, who serves, when to override all three.
-
-**Noise everywhere, no filter.** AI floods you with options faster than you can think. The manifesto gives you a compact set of anchors to lock before you start, signal stays, noise drops out.
-
-**Getting dumber and not noticing.** AI does the work, you take the credit, six months later you can't do it without the machine. The manifesto gives you a consolidation cycle that keeps what you learned yours.
-
-**No way to check if you're still flying.** Seven principles: each one a diagnostic for a specific failure mode. Compounding or just looping? Auditing the process or proofreading the output? Exoskeleton or a prosthetic you can't take off?
-
-**No way to know if the framework itself is wrong.** The manifesto publishes its own kill conditions. If they trigger - throw it out. Any system that hides from falsification is religion.
+> Computing is out of the silicon box. It is in our space now. Taking any symbiotic shape — including ones we can't imagine. Outcompeting the machine is a death sentence. Full stop. The only exit: go up a level of abstraction. That level is System 0.
 
 ---
 
-> **You stay above the singularity. Always the pilot — never part of the engine.**
+## The Problem
+
+AI destroyed the monopoly on linear execution. Code, analysis, research, prototypes — generated at the speed of voice. The linear tax that fed entire industries for two centuries is gone.
+
+Complexity didn't disappear. It moved up. The bottleneck flipped: not **how to build**, but **what exactly should exist, why, and for whom**.
+
+The ground floor is underwater. The water rises every month. And here is the trap most people miss: both engines — your brain and the AI — run on probabilistic pattern-matching. Both hallucinate. Without a protocol above the loop, two hallucinating engines merge into shared delusion at the speed of light.
+
+## The Protocol
+
+EVO ZERO is a complete cognitive operating system for the AI era. Not a tip. Not a framework. A runnable architecture with five components:
+
+**1. Four-System Stack.** Kahneman's System 1 (fast/gut) and System 2 (slow/logic) plus System 3 (AI — tireless, knows everything, comprehends nothing) governed by **System 0** — your meta-cognition. The pilot that decides which system to engage, when to stop, and whether the output is still yours.
+
+**2. Five Fixpoints.** The working memory registers that make piloting possible. Loaded before every cycle, updated after every cycle, evicted if not consolidated. Intent — what and why. Constraints — what can't change. Invariants — lines you never cross. Anchors — compressed prior knowledge. Risks — known failure modes. Five slots. That's what the brain holds. That's what the processor holds. Same architecture.
+
+**3. The Spiral (DHS).** Diffuse Hermeneutic Spiral — the engine for entering any unfamiliar domain at speed. Boot fixpoints → S3 generates, S1 red-teams → S0+S2 audit → update fixpoints → next cycle starts higher. Empty fixpoints don't block — they redirect into exploration mode. The architecture doesn't require expertise. It builds it through the loop.
+
+**4. The Disk.** Consolidation protocol that makes the spiral vertical instead of circular. Three operations, two minutes per cycle: Verify (does the output satisfy the constraint or just sound like it?), Challenge (invert one assumption — if it collapses, you were building on sand), Connect (link to an existing anchor — isolated knowledge evaporates, connected knowledge compounds). Without the Disk, every cycle evicts. S3 becomes your memory. You lose the wheel.
+
+**5. Five Principles.** Each one is a flight test. Möbius Learning — enter any domain by building, not studying. Compound Compression — every domain accelerates the next. Salt Water Test — both engines hallucinate, verify or drown. Pilot Above the Loop — audit the circuit, not every wire. Environment Over Willpower — design the cockpit, not yourself.
+
+The science behind it: finite registers govern infinite memory (x86 architecture), working memory holds ~4 items (Miller 1956, Cowan 2001), understanding grows through reinterpretation not accumulation (Gadamer 1960). Three domains. Each solved a piece. The problem was clear to many. The protocol — to none.
 
 ---
 
-## How to Cite
+**→ [Read the full manifesto](EVOLUTIONARY_ZERO_v4.2.md)**
 
-Sovetcenkovs, A. (2026). *Evolutionary Zero: The Cognitive Architecture Above the Loop.* v3.7. GitHub.
+**→ [PDF for DOI / print](EVOLUTIONARY_ZERO_v4.2.pdf)**
 
-## License
+**→ [Full changelog from v1.0](CHANGELOG.md)**
 
-CC BY-SA 4.0 — Use it, build on it, credit the source.
+---
 
-*Built by a neurodivergent mind that spent 20 years navigating without a manual. Now the manual exists.*
+## Citation
+```
+Sovetcenkovs, A. (2026). Evolutionary Zero: The Cognitive Architecture Above the Loop.
+Manifesto v4.2. 8 March 2026.
+GitHub: https://github.com/EVOZERO-Antony/evolutionary-zero
+```
+
+**CC BY-SA 4.0 International**
+
+---
+
+*The cage is open. The tax is gone. Are you driving — or being driven?*
