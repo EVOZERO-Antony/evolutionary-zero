@@ -21,7 +21,7 @@ The ground floor is underwater. The water rises every month. And here is the tra
 
 ## The Protocol
 
-EVO ZERO is a complete cognitive operating system for the AI era. Not a tip. Not a framework. A runnable architecture with five components:
+EVO ZERO is a cognitive framework for the AI era — not a listicle, not a mindset talk. A runnable protocol. Five components:
 
 **1. Four-System Stack.** Kahneman's System 1 (fast/gut) and System 2 (slow/logic) plus System 3 (AI — tireless, knows everything, comprehends nothing) governed by **System 0** — your meta-cognition. The pilot that decides which system to engage, when to stop, and whether the output is still yours.
 
@@ -33,7 +33,7 @@ EVO ZERO is a complete cognitive operating system for the AI era. Not a tip. Not
 
 **5. Five Principles.** Each one is a flight test. Möbius Learning — enter any domain by building, not studying. Compound Compression — every domain accelerates the next. Salt Water Test — both engines hallucinate, verify or drown. Pilot Above the Loop — audit the circuit, not every wire. Environment Over Willpower — design the cockpit, not yourself.
 
-The science behind it: finite registers govern infinite memory (x86 architecture), working memory holds ~4 items (Miller 1956, Cowan 2001), understanding grows through reinterpretation not accumulation (Gadamer 1960). Three domains. Each solved a piece. The problem was clear to many. The protocol — to none.
+The science behind it: finite registers govern infinite memory (x86), working memory holds ~4 items and operates in two modes — focused and diffuse (Miller, Cowan, Oakley), understanding grows through reinterpretation not accumulation (Gadamer). Three domains. Each solved a piece. The problem was clear to many. The protocol — to none.
 
 ---
 
@@ -46,6 +46,7 @@ The science behind it: finite registers govern infinite memory (x86 architecture
 ---
 
 ## Citation
+
 ```
 Sovetcenkovs, A. (2026). Evolutionary Zero: The Cognitive Architecture Above the Loop.
 Manifesto v4.2. 8 March 2026.
